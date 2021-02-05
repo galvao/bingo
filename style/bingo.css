@@ -5,6 +5,7 @@ body {
 
 table {
     border-spacing: 2px;
+    background-color: #dfdfdf;
 }
 
 table th, td {
