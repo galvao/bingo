@@ -22,6 +22,7 @@ table td {
 
 table td.marked {
     background-color: #ffff00;
+    border-radius: 40px;
 }
 
 table th {
